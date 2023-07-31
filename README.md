@@ -1,3 +1,3 @@
-# Project - monitoring system
-# 2nd Year Skill Development Project 
-# CSS, PHP, MySQL
+Project - monitoring system </br>
+2nd Year Skill Development Project </br>
+CSS, PHP, MySQL
