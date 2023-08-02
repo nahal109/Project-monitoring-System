@@ -3,4 +3,4 @@ Project - monitoring system </br>
 CSS, PHP, MySQL
 </br>
 </br>
-<img src="D:\project\Project-monitoring-master\1.JPG">
+<img src="D:\project\Project-monitoring-master\1.JPG"> 
