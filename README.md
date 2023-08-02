@@ -6,6 +6,6 @@
   CSS, PHP, MySQL
   </br>
   </br>
-  <img src= "D:\project\Project-monitoring-master\1.JPG" width="1000" hight="600"></a>
+  <img src= "D:\project\Project-monitoring-master\1.JPG" width="1000" hight="600"></a>s
   </body>
 </html>
